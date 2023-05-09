@@ -73,6 +73,9 @@ The application includes JUnit 5 test cases for the BookService class. To run th
 bash
 
     mvn test
+or
+
+    run the file "BookServiceImplTest" which is located at "BookStore/src/test/java/com/example/Bookstore/Services/Impl"
 
 ## Built With :
 
